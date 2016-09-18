@@ -1,6 +1,6 @@
 Homework list
 
-- [x] Exercise_03
+- [x] Exercise_03：https://www.zybuluo.com/xinxiangbeifang/note/502708
 
 - [x] Exercise_04
 
