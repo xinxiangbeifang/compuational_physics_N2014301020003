@@ -1,6 +1,8 @@
 Homework list
 
-- [x] Exercise_03：https://www.zybuluo.com/xinxiangbeifang/note/502708
+- [x] Exercise_02：https://www.zybuluo.com/xinxiangbeifang/note/502708
+
+- [x] Exercise_03:https://www.zybuluo.com/zy-0815/note/513270
 
 - [x] Exercise_04
 
@@ -12,7 +14,7 @@ Homework list
 
 - [x] Exercise_08
 
-- [x] Exercise_09
+- [x] Exercise_9
 
 - [x] Exercise_10
 
@@ -21,5 +23,3 @@ Homework list
 - [x] Exercise_12
 
 - [x] Exercise_13
-
-- [x] Exercise_14
