@@ -4,7 +4,7 @@ Homework list
 
 - [x] Exercise_03:https://www.zybuluo.com/zy-0815/note/513270
 
-- [x] Exercise_04
+- [x] Exercise_04:https://www.zybuluo.com/zy-0815/note/525811
 
 - [x] Exercise_05
 
