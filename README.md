@@ -8,7 +8,7 @@ Homework list
 
 - [x] Exercise_05：https://www.zybuluo.com/zy-0815/note/534164
 
-- [x] Exercise_06
+- [x] Exercise_06：https://www.zybuluo.com/zy-0815/note/542473
 
 - [x] Exercise_07
 
