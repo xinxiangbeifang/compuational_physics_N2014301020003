@@ -10,7 +10,7 @@ Homework list
 
 - [x] Exercise_06：https://www.zybuluo.com/zy-0815/note/542473
 
-- [x] Exercise_07
+- [x] Exercise_07：https://www.zybuluo.com/zy-0815/note/550707
 
 - [x] Exercise_08
 
