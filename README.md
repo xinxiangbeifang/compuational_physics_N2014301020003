@@ -12,14 +12,14 @@ Homework list
 
 - [x] Exercise_07：https://www.zybuluo.com/zy-0815/note/550707
 
-- [x] Exercise_08
+- [x] Exercise_08：https://www.zybuluo.com/zy-0815/note/566043
 
-- [x] Exercise_9
+- [x] Exercise_9：
 
-- [x] Exercise_10
+- [x] Exercise_10：
 
-- [x] Exercise_11
+- [x] Exercise_11：
 
-- [x] Exercise_12
+- [x] Exercise_12：
 
-- [x] Exercise_13
+- [x] Exercise_13：
