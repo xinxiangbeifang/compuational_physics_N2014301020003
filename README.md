@@ -16,7 +16,7 @@ Homework list
 
 - [x] Exercise_9：https://www.zybuluo.com/zy-0815/note/573756
 
-- [x] Exercise_10：
+- [x] Exercise_10：https://www.zybuluo.com/zy-0815/note/581852
 
 - [x] Exercise_11：
 
