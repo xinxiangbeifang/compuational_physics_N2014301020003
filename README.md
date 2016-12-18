@@ -22,4 +22,4 @@ Homework list
 
 - [x] Exercise_12：https://www.zybuluo.com/zy-0815/note/597920
 
-- [x] Exercise_13：
+- [x] Exercise_13：https://www.zybuluo.com/zy-0815/note/605091
